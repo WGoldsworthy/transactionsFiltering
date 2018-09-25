@@ -1,0 +1,4 @@
+Improvements
+
+- Validation for date picking. 
+	- There appears to be an issue with date picker where using up and down arrows to increase date to an invalid date (e.g. 31/04/2018) causing the calculation of transactions and points to be 0.
